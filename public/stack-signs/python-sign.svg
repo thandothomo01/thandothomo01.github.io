@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Python Sign</title>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="24" fill="url(#g)"/>
+  <rect x="24" y="26" width="40" height="30" rx="10" fill="#bfdbfe"/>
+  <rect x="56" y="64" width="40" height="30" rx="10" fill="#fde68a"/>
+  <circle cx="52" cy="40" r="3" fill="#1e3a8a"/>
+  <circle cx="68" cy="80" r="3" fill="#92400e"/>
+  <path d="M46 56h28M46 64h28" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</svg>
